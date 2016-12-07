@@ -1,6 +1,6 @@
 #treats1 {background-color: #EAC117; padding-top:10px; padding-bottom: 20px; 
 }
-#finest {font-family: Comic Sans MS, cursive, sans-serif; text-align: center; color: #3a1509; padding-top: 5px; font-weight: 8rem;
+#finest {font-family: Comic Sans MS, cursive, sans-serif;  color: #3a1509; object-position: center
 }
 #navp {height: 640px; background-color: #cf7a24; font-family: Arial, Helvetica, san-serif; color: #3a1509;text-align: center;  
 }
@@ -39,6 +39,7 @@ h5{
 #num{
     color: #EAC117; text-align: center;
 }
+
 #email{
     color: #EAC117; text-align: center;
 }
@@ -59,4 +60,7 @@ h1{
 }
 #commentfield{
     text-align: center;
+}
+#giffy{
+    padding-top: 5px; padding-left: 5px; margin-left: 5px;
 }
